@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BootcampResourcesCheckoutSystem\BootcampResourcesCheckoutSystem\bin\Debug\BootcampResourcesCheckoutSystem.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BootcampResourcesCheckoutSystem\BootcampResourcesCheckoutSystem\bin\Debug\BootcampResourcesCheckoutSystem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BootcampResourcesCheckoutSystem\BootcampResourcesCheckoutSystem\bin\Debug\BootcampResourcesCheckoutSystem.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BootcampResourcesCheckoutSystem\BootcampResourcesCheckoutSystem\obj\Debug\BootcampResourcesCheckoutSystem.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BootcampResourcesCheckoutSystem\BootcampResourcesCheckoutSystem\obj\Debug\BootcampResourcesCheckoutSystem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BootcampResourcesCheckoutSystem\BootcampResourcesCheckoutSystem\obj\Debug\BootcampResourcesCheckoutSystem.pdb
